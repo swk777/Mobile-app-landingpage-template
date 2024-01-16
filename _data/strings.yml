@@ -1,4 +1,4 @@
 app:
   screenshots: Screenshots
   description: Description
-  featured: Featured in
+  # featured: Featured in
