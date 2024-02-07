@@ -1,10 +1,10 @@
 {
-  "name": "Mobile App Name",
-  "short_name": "Mobile App Name",
+  "name": "SmartDeck",
+  "short_name": "SmartDeck",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "A super tagline for the mobile app",
+  "description": "Blend AI with Your Workflow.",
   "scope": "/",
   "theme_color": "#efeeff",
   "background_color": "#efeeff"
