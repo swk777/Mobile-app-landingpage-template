@@ -3,17 +3,6 @@
     <channel>
         <title>SmartDeck</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Tue, 27 Feb 2024 10:27:47 +0800</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://apps.smartdeck.ai/SmartDeck.AI%201.0.1.dmg" length="13952378" type="application/octet-stream" sparkle:edSignature="8C/4LWOBHIihnzQXLeYEE/CexUP1Z1zTxiTfci2IbyKAhZ7h4ZnQoaBr2Cj4B0Cb6VPqlZGjXHEuh0vfz8sHDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://apps.smartdeck.ai/SmartDeck4-1.delta" sparkle:deltaFrom="1" length="13174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865120" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ENC6vaLN8shKavq6wF09kxQ8x1E6SiIJIvQHeIFZBifKhCrASw6Gz0rNDVzkn/wQHQ/3bY+jO19MzulXmWlyCg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
             <title>1.0.2</title>
             <pubDate>Tue, 05 Mar 2024 12:17:46 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
